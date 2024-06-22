@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 3rd year CS student at York University
+
+|Languages|![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)|
+|-|-|
+
 <!--
 **nina2dv/nina2dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

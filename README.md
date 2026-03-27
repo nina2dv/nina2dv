@@ -61,7 +61,7 @@ Currently doing research in conceptual modeling and human evaluation.
     <td width="50%" valign="top">
       <h3><a href="https://devpost.com/software/octocare">OctoCare</a></h3>
       <em>CTRL+HACK+DEL 2024</em>
-      <p>First-aid learning app translating Figma prototypes into an interactive React interface with functional learning modules.</p>
+      <p>First-aid learning app with functional learning modules.</p>
       <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
     </td>

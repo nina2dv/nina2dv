@@ -99,7 +99,7 @@ Currently doing research in conceptual modeling and human evaluation.
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/cmg-yorku/dtx2X">dtx2X</a></h3>
-      <p>Research tool for generating and transforming goal model representations for use in simulation workflows.</p>
+      <p>iStarDT-X XML deserializer</p>
       <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/></a>
     </td>

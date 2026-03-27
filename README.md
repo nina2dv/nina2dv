@@ -132,12 +132,6 @@ Languages: Python · Java · C · Bash · SQL
 
 > *Designing and Generating Reinforcement Learning Training Simulators using Goal Models* - Submitted to **Data & Knowledge Engineering** (2025)
 
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nina2dv/)
-
 <!--
 **nina2dv/nina2dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

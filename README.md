@@ -9,17 +9,28 @@ Currently doing research in conceptual modeling and human evaluation.
 
 ## Current Projects
 
-> Consensus Network Simulaton suite - tools for modeling and simulating blockchain consensus protocols.
-
 <table>
   <tr>
+    <td colspan="3">
+      <b>Consensus Network Simulation Suite</b> &nbsp;—&nbsp; <i>Tools for modeling and simulating blockchain consensus protocols</i>
+    </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/cmg-york/cnsim-engine">cnsim-engine</a></h3>
-      <p>Core simulation engine for consensus network modeling.</p>
-      <h3><a href="https://github.com/cmg-york/cnsim-bitcoin">cnsim-bitcoin</a></h3>
-      <p>Bitcoin-specific consensus protocol implementation built on the engine.</p>
-      <h3><a href="https://github.com/cmg-york/cnsim-tools">cnsim-tools</a></h3>
-      <p>Tools for analyzing CNSim logs.</p>
+      <b><a href="https://github.com/cmg-york/cnsim-engine">cnsim-engine</a></b>
+      <br/>Core simulation engine for consensus network modeling.
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/cmg-york/cnsim-bitcoin">cnsim-bitcoin</a></b>
+      <br/>Bitcoin-specific consensus protocol implementation.
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/cmg-york/cnsim-tools">cnsim-tools</a></b>
+      <br/>CLI tooling and log analysis utilities.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
       <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
@@ -115,7 +126,7 @@ Currently doing research in conceptual modeling and human evaluation.
 ---
 
 ## Tech Stack
-Languages: Python · Java · C · Bash · SQL  
+Languages: Python · Java · C · Bash · SQL · R  
 
 ---
 

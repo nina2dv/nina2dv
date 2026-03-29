@@ -26,7 +26,7 @@ Currently doing research in conceptual modeling and human evaluation.
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/cmg-york/cnsim-tools">cnsim-tools</a></b>
-      <br/>CLI tooling and log analysis utilities.
+      <br/>CNSim log analysis
     </td>
   </tr>
   <tr>

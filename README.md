@@ -141,7 +141,8 @@ Languages: Python · Java · C · Bash · SQL · R
 
 ## Publications
 
-> *Designing and Generating Reinforcement Learning Training Simulators using Goal Models* - Submitted to **Data & Knowledge Engineering** (2025)
+> - Liaskos, S., Dang, N., Khan, S. M., Mylopoulos, J., Golipour, R., & Radjou, A. (2026). Designing and generating reinforcement learning training simulators using goal models. *Data & Knowledge Engineering*, 102603. https://doi.org/10.1016/j.datak.2026.102603 
+
 
 <!--
 **nina2dv/nina2dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

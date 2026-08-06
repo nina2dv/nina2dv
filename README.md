@@ -1,7 +1,7 @@
 
 # Hi, I'm Nina 👋
 
-**Computer Science student @ York University** · 18x startup intern · 4x research assistant 
+**Computer Science student @ York University** · 21x startup intern · 4x research assistant 
 
 Currently doing research in conceptual modeling and human evaluation.
 
